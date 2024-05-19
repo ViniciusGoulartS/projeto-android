@@ -117,13 +117,14 @@ div.video > iframe {
 } 
 
 article > img {
-    max-width: 250px;
+    width: 100%;
 }
 
 article img.pequena{
-    min-width: 250px;
-    margin: auto;
+    max-width: 350px;
     display: block;
+    margin: auto;
+   
 }
 
 article > h1 {
